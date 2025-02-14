@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NoeMachado
 - 👀 I'm a tech lead engineer.
 - 🌱 I'm each day learning more and more about how to apply programming to solve business and scientific problems.
-- 💞️ I'm looking to collaborate on Artificial Intelligence and Data Science applications.
 - 📫 How to reach me: nmachado@usp.br
 
 <!---
