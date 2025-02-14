@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoeMachado
 - 👀 I'm a tech lead engineer.
-- 🌱 I'm each day learning more and more about how to apply programming to solve business and scientific problems.
+- 🌱 I'm each day using my technical and programming knowledge to solve business and scientific problems.
 - 📫 How to reach me: nmachado@usp.br
 
 <!---
