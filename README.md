@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @NoeMachado
-- 👀 I'm a tech lead engineer.
-- 🌱 I'm each day using my technical and programming knowledge to solve business and scientific problems.
-- 📫 How to reach me: nmachado@usp.br
+# 👋 Hi, I’m Noé Machado
 
-<!---
-NoeMachado/NoeMachado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I’m a Data Engineer, AI Specialist, and Tech Lead with a Ph.D. in Science and Technology from the University of São Paulo (USP).
+
+💼 Currently leading the tech division at a global healthtech company (Clínica Seven), I design and implement scalable data architectures and AI-powered solutions to drive business innovation and strategic decision-making.
+
+🚀 I work with Python, Apache Airflow, BigQuery, MySQL, GCP, AWS, and machine learning frameworks like Scikit-learn and Facebook Prophet. I also develop B2C applications using LLMs and coordinate cross-functional teams using agile methodologies.
+
+🧠 Passionate about transforming complex data into meaningful insights, aligning technology with business outcomes, and building high-performance teams and systems.
+
+📫 How to reach me: nmachado@usp.br
